@@ -103,6 +103,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               }
             ],
           },
+          {
+            title: 'Legal',
+            items: [
+              {
+                label: 'Legal notice',
+                to: 'https://legal.streamp.live/imprint',
+              },
+              {
+                label: 'Privacy policy',
+                to: 'https://legal.streamp.live/privacy',
+              }
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} BTE Germany. Built with Docusaurus.`,
       },
