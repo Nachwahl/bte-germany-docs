@@ -71,7 +71,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                             }
                         ],
                     },
+/*
                     {to: '/blog', label: 'Blog', position: 'left'},
+*/
                     {
                         type: 'localeDropdown',
                         position: 'right',
