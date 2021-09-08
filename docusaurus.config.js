@@ -110,7 +110,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                             }
                         ],
                     },
-                    {
+                    /*{
                         title: 'More',
                         items: [
                             {
@@ -118,7 +118,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                                 to: '/blog',
                             }
                         ],
-                    },
+                    },*/
                     {
                         title: 'Legal',
                         items: [
