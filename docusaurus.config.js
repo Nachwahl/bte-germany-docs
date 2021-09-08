@@ -64,6 +64,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                             {
                                 label: "Builder Infos",
                                 to: "docs/builder-infos/intro"
+                            },
+                            {
+                                label: "Building Tips",
+                                to: "docs/building-tips/worldedit"
                             }
                         ],
                     },

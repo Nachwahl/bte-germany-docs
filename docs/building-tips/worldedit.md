@@ -2,7 +2,7 @@
 
 To work with World Edit get yourself a wooden axe and right/left click on a block to set your selection corners.
 
-### Table of content
+### Table of contents
 import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
