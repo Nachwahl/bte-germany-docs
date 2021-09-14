@@ -54,6 +54,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                             {
                                 label: "Intro",
                                 to: "docs/intro",
+                            },
+                            {
+                                label: "Discord Information",
+                                to: "docs/discord/intro"
                             }
                         ],
                     },
