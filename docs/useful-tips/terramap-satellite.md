@@ -2,6 +2,8 @@
 
 While building, it can be very useful to have a satellite view on the Terramap. the following tutorial shows you how you can do that.
 
+![](https://media.nachwahl.dev/GNJ6lK.jpg)
+
 ## Step 1
 Head over to [mapbox.com](https://www.mapbox.com/) and click the "Sign up" button on the top right corner of the page.
 
