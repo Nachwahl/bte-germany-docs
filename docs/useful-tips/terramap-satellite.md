@@ -102,6 +102,10 @@ You can now save the file by pressing <kbd>Ctrl</kbd> + <kbd>S</kbd> on your key
 
 Switch to the game again and click on "Reload map styles". There should be now one user map style.
 
+:::info
+You have to reopen the Terramap menu to see the new style.
+:::
+
 ![](https://media.nachwahl.dev/9QdOgc.png)
 
 Click on "Save" and you are finished 😀
