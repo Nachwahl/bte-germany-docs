@@ -13,7 +13,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     favicon: 'img/favicon.ico',
     organizationName: 'Nachwahl', // Usually your GitHub org/user name.
     projectName: 'bte-germany-docs', // Usually your repo name.
-
+    plugins: [
+        'plugin-image-zoom'
+    ],
     presets: [
         [
             '@docusaurus/preset-classic',
@@ -40,6 +42,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
+            zoomSelector: '.markdown img',
             navbar: {
                 title: 'BTE Germany',
                 logo: {
@@ -72,6 +75,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                             {
                                 label: "Building Tips",
                                 to: "docs/building-tips/worldedit"
+                            }
+                        ],
+                    },
+                    {
+                        label: "Useful Tips",
+                        position: "left",
+                        items: [
+                            {
+                                label: "Terramap",
+                                to: "docs/useful-tips/terramap-satellite"
                             }
                         ],
                     },
