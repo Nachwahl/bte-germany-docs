@@ -2,34 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to the BTE Germany Docs
+The Build the Earth Germany docs are a collection of all information, you need to participate in the project.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+:::info
 
-## Getting Started
+If you don't find, what you are looking for create a [GitHub Issue](https://github.com/Nachwahl/bte-germany-docs/issues/new) or contact us in the support channel on our Discord.
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+:::
